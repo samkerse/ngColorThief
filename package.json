@@ -1,0 +1,21 @@
+{
+  "name": "angular-colorthief",
+  "version": "0.1.0",
+  "description": "ColorThief wrapper for AngularJS",
+  "main": "angular-colorthief.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreamJar/ngColorThief.git"
+  },
+  "keywords": [
+    "colorthief"
+  ],
+  "authors": [
+    "Ian Murray <me@ianmurray.me>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StreamJar/ngColorThief/issues"
+  },
+  "homepage": "https://github.com/StreamJar/ngColorThief#readme"
+}
