@@ -10,6 +10,9 @@
   "keywords": [
     "colorthief"
   ],
+  "require": {
+    "color-thief": "2.2.1"
+  },
   "authors": [
     "Ian Murray <me@ianmurray.me>"
   ],

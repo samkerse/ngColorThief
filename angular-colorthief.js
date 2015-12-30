@@ -1,5 +1,7 @@
 'use strict';
 
+require("./color-thief");
+
 angular.module('ngColorThief', [])
   .provider('$colorThief', [function () {
     /**
