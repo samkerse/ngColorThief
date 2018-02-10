@@ -1,24 +1,21 @@
 {
-  "name": "angular-colorthief",
+  "name": "angular-inline-colorthief",
   "version": "0.1.1",
-  "description": "ColorThief wrapper for AngularJS",
+  "description": "ColorThief wrapper for AngularJS with inline dependencies",
   "main": "angular-colorthief.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StreamJar/ngColorThief.git"
+    "url": "git+https://github.com/samkerse/ngColorThief.git"
   },
   "keywords": [
     "colorthief"
   ],
-  "require": {
-    "color-thief": "2.2.1"
-  },
   "authors": [
     "Ian Murray <me@ianmurray.me>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StreamJar/ngColorThief/issues"
+    "url": "https://github.com/samkerse/ngColorThief/issues"
   },
-  "homepage": "https://github.com/StreamJar/ngColorThief#readme"
+  "homepage": "https://github.com/samkerse/ngColorThief#readme"
 }
